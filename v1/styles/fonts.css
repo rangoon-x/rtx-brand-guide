@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Sora";
+  src: url("../assets/English%20Font/Title/Sora/static/Sora-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sora";
+  src: url("../assets/English%20Font/Title/Sora/static/Sora-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/English%20Font/Body/Poppins/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/English%20Font/Body/Poppins/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Masterpiece Daung Round";
+  src: url("../assets/Burmese%20Font/Title/MasterpieceDaungRound.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Masterpiece Uni Sans";
+  src: url("../assets/Burmese%20Font/Body/MasterpieceUniSans.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OT04 Blox";
+  src: url("../assets/Burmese%20Font/Logo-Title/OT04_Blox%20(Canva).ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OT21_TwelLet";
+  src: url("../assets/Burmese%20Font/Logo-body/OT21_TwelLet-Regular%20(Canva%20Upload).ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

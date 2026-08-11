@@ -1,0 +1,36 @@
+:root,
+[data-theme="light"] {
+  --rtx-color-midnight-teal: #021a26;
+  --rtx-color-mint-teal: #29ddb9;
+  --rtx-color-sky-blue: #0272a7;
+  --rtx-color-almost-black: #000c12;
+  --rtx-color-soft-white: #f7fbfa;
+  --rtx-color-bright-gold: #ffd700;
+  --rtx-theme-canvas: var(--rtx-color-soft-white);
+  --rtx-theme-surface: #ffffff;
+  --rtx-theme-surface-alt: var(--rtx-color-soft-white);
+  --rtx-theme-ink: var(--rtx-color-almost-black);
+  --rtx-theme-ink-muted: rgba(0, 12, 18, 0.72);
+  --rtx-theme-ink-muted-subtle: rgba(0, 12, 18, 0.56);
+  --rtx-theme-muted: rgba(2, 26, 38, 0.72);
+  --rtx-theme-hairline: rgba(2, 26, 38, 0.14);
+  --rtx-theme-action: var(--rtx-color-mint-teal);
+  --rtx-theme-link: var(--rtx-color-sky-blue);
+  --rtx-surface-chip-translucent: rgba(247, 251, 250, 0.72);
+  --rtx-surface-chip-translucent-strong: rgba(247, 251, 250, 0.88);
+}
+
+[data-theme="dark"] {
+  --rtx-theme-canvas: var(--rtx-color-midnight-teal);
+  --rtx-theme-surface: var(--rtx-color-midnight-teal);
+  --rtx-theme-surface-alt: var(--rtx-color-almost-black);
+  --rtx-theme-ink: var(--rtx-color-soft-white);
+  --rtx-theme-ink-muted: rgba(247, 251, 250, 0.74);
+  --rtx-theme-ink-muted-subtle: rgba(247, 251, 250, 0.56);
+  --rtx-theme-muted: rgba(247, 251, 250, 0.74);
+  --rtx-theme-hairline: rgba(247, 251, 250, 0.16);
+  --rtx-theme-action: var(--rtx-color-mint-teal);
+  --rtx-theme-link: var(--rtx-color-mint-teal);
+  --rtx-surface-chip-translucent: rgba(2, 26, 38, 0.72);
+  --rtx-surface-chip-translucent-strong: rgba(0, 12, 18, 0.72);
+}

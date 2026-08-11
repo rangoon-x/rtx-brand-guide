@@ -1,0 +1,51 @@
+{
+  "version": "v1",
+  "brand": "Rangoon.Tech",
+  "basePath": "/brand/v1",
+  "design": "Design.md",
+  "styles": {
+    "fonts": "styles/fonts.css",
+    "tokens": "styles/tokens.css"
+  },
+  "tokens": {
+    "colors": "tokens/colors.json"
+  },
+  "assets": {
+    "logos": {
+      "primaryHorizontal": "assets/Logos/rtx-primary-logo-full-color-horizontal-light.png",
+      "secondaryStacked": "assets/Logos/rtx-secondary-logo-full-color-stacked-light.png",
+      "whiteHorizontal": "assets/Logos/rtx-logo-white-horizontal-dark.png",
+      "darkHorizontal": "assets/Logos/rtx-logo-dark-horizontal-light.png",
+      "wordmarkMint": "assets/Logos/rtx-wordmark-mint-teal-transparent.png",
+      "wordmarkWhite": "assets/Logos/rtx-wordmark-white-dark.png",
+      "wordmarkDark": "assets/Logos/rtx-wordmark-dark-light.png",
+      "burstGradient": "assets/Logos/rtx-burst-mark-full-color-gradient-transparent.png",
+      "socialCircle": "assets/Logos/rtx-burst-mark-circle-social-profile.svg",
+      "socialSquare": "assets/Logos/rtx-burst-mark-square-social-profile.svg"
+    },
+    "imagery": {
+      "directory": "assets/07imagery",
+      "defaultQuality": "HQ",
+      "fallbackQuality": "LQ",
+      "fallbackWhen": ["saveData", "slow-2g", "2g"],
+      "queryOverride": {
+        "parameter": "quality",
+        "values": ["auto", "hq", "lq"]
+      },
+      "lowQualityDirectory": "assets/07imagery/LQ",
+      "highQualityDirectory": "assets/07imagery/HQ",
+      "lowQualityReadme": "assets/07imagery/LQ/readme.md",
+      "highQualityReadme": "assets/07imagery/HQ/readme.md"
+    },
+    "fonts": {
+      "soraBold": "assets/English Font/Title/Sora/static/Sora-Bold.ttf",
+      "soraSemiBold": "assets/English Font/Title/Sora/static/Sora-SemiBold.ttf",
+      "poppinsRegular": "assets/English Font/Body/Poppins/Poppins-Regular.ttf",
+      "poppinsMedium": "assets/English Font/Body/Poppins/Poppins-Medium.ttf",
+      "masterpieceDaungRound": "assets/Burmese Font/Title/MasterpieceDaungRound.ttf",
+      "masterpieceUniSans": "assets/Burmese Font/Body/MasterpieceUniSans.ttf",
+      "ot04Blox": "assets/Burmese Font/Logo-Title/OT04_Blox (Canva).ttf",
+      "ot21TwelLet": "assets/Burmese Font/Logo-body/OT21_TwelLet-Regular (Canva Upload).ttf"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "midnightTeal": "#021A26",
+  "mintTeal": "#29DDB9",
+  "skyBlue": "#0272A7",
+  "almostBlack": "#000C12",
+  "softWhite": "#F7FBFA",
+  "brightGold": "#FFD700",
+  "gradients": {
+    "primary": "linear-gradient(135deg, #021A26 0%, #0272A7 50%, #29DDB9 100%)",
+    "dark": "linear-gradient(135deg, #000C12 0%, #021A26 55%, #0272A7 100%)",
+    "experience": "linear-gradient(135deg, #0272A7 0%, #29DDB9 52%, #FFD700 100%)"
+  }
+}
