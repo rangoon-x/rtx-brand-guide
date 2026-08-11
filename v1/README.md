@@ -24,6 +24,12 @@ Use one immutable base URL per version:
 https://cdn.rangoon.tech/brand/v1
 ```
 
+For the GitHub Pages test, use:
+
+```txt
+https://rangoon-x.github.io/rtx-brand-guide/v1
+```
+
 The app should read this from an environment variable:
 
 ```txt
